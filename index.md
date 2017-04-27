@@ -33,17 +33,17 @@ Love to work with Developers, fast learner and funny Teamworker.
 ## Repositories
 
 ### [ngx-ui-switch](https://github.com/webcat12345/ngx-ui-switch)
+[![Greenkeeper badge](https://badges.greenkeeper.io/webcat12345/ngx-ui-switch.svg)](https://greenkeeper.io/) [![Build Status](https://travis-ci.org/webcat12345/ngx-ui-switch.svg?branch=master)](https://travis-ci.org/webcat12345/ngx-ui-switch) [![npm version](https://badge.fury.io/js/ngx-ui-switch.svg)](https://badge.fury.io/js/ngx-ui-switch) [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/ngx-ui-switch)
 > Angular4 UI switch component succeed on AOT build and npm published
-> [![Greenkeeper badge](https://badges.greenkeeper.io/webcat12345/ngx-ui-switch.svg)](https://greenkeeper.io/) [![Build Status](https://travis-ci.org/webcat12345/ngx-ui-switch.svg?branch=master)](https://travis-ci.org/webcat12345/ngx-ui-switch) [![npm version](https://badge.fury.io/js/ngx-ui-switch.svg)](https://badge.fury.io/js/ngx-ui-switch) [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/ngx-ui-switch)
 
 ### [rich-pdf-ngx](https://github.com/webcat12345/rich-pdf-ngx)
+[![Build Status](https://travis-ci.org/webcat12345/rich-pdf-ngx.svg?branch=master)](https://travis-ci.org/webcat12345/rich-pdf-ngx)  [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://webblack.herokuapp.com/)
 > Angular Material(version 2) + AngularFlex Layout. You can understand how to construct Angular4 Admin Dashboard project using angular-cli.
 > Authentication implemented with In Memory Data Service.(In progress)
-> [![Build Status](https://travis-ci.org/webcat12345/rich-pdf-ngx.svg?branch=master)](https://travis-ci.org/webcat12345/rich-pdf-ngx)  [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://webblack.herokuapp.com/)
 
 ### [sample-table-project](https://github.com/webcat12345/sample-table-project)
 > ngx-bootstrap and angular2-datatable implement tutorial
 
 ### [webcat-black-page](https://github.com/webcat12345/webcat-black-page)
+[![Build Status](https://travis-ci.org/webcat12345/webcat-black-page.svg?branch=master)](https://travis-ci.org/webcat12345/webcat-black-page) [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://webblack.herokuapp.com/)
 > Angular4 routing tutorial with HTML mockup (In progress)
-> [![Build Status](https://travis-ci.org/webcat12345/webcat-black-page.svg?branch=master)](https://travis-ci.org/webcat12345/webcat-black-page) [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://webblack.herokuapp.com/)
